@@ -15,8 +15,6 @@
 #include <libopencm3/stm32/flash.h>
 #include <libopencm3/stm32/timer.h>
 #include "si5351.h"
-#include "oledi2c.h"
-#include "oled_printf.h"
 #define MIN_LIMIT 200
 #define MAX_LIMIT 170000
 #define IF_FEQ 10700  //ПЧ

@@ -3,7 +3,6 @@ BUILD_DIR = bin
 
 SHARED_DIR = ./inc
 
-CFILES = oledi2c.c oled_printf.c
 CFILES += si5351.c
 CFILES += main.c
 
